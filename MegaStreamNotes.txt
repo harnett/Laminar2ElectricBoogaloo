@@ -1,0 +1,20 @@
+%% ULTIMATE STREAM
+% state classification
+% spike power corr
+% spike spike coh
+% spike r-test
+% spike - sta
+% osc_avg
+% back propagation
+
+% PLOT CITY
+
+% plot all kewl plots for one session (20 for now)
+
+% scatter plot with unit depth on y-axis phase pref on x-axis
+
+% scatter plot with rayleigh's r on x-axis unit depth on y-axis
+
+% scatter plot with amplitude modulation on x-axis depth on y-axist-sn
+
+% bap results
