@@ -15,6 +15,6 @@ for k = 1 : size(s,1)
         end
     end
 end
-
+% TO UPDATE
 %6 8;3 3; 1 2
 %10 13 
